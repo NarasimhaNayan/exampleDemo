@@ -7,7 +7,7 @@ public class ArrayUtility {
     
     }
     
-    publicc static int findELe(int[] a,key) {
+    public static int findELe(int[] a,key) {
         
     }
 }
